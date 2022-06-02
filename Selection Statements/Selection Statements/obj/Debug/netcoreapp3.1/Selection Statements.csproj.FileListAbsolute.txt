@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.exe
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.deps.json
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.runtimeconfig.json
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.runtimeconfig.dev.json
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.dll
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\bin\Debug\netcoreapp3.1\Selection Statements.pdb
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.dll
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.pdb
+C:\Users\User\Desktop\Repos\Selection Statements\Selection Statements\Selection Statements\obj\Debug\netcoreapp3.1\Selection Statements.genruntimeconfig.cache
